@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "Adani Case",
+      "body": "Pariatur anim voluptate non adipisicing id sint ullamco qui consectetur nostrud culpa tempor enim. Officia veniam ea in eu laborum ad laborum consequat nisi et. Aute consectetur id eiusmod anim deserunt. Mollit duis incididunt eu consectetur laboris labore mollit aute eiusmod laboris elit amet nisi reprehenderit.Dolore culpa ipsum incididunt consequat id eiusmod non dolor occaecat est occaecat exercitation do enim. Voluptate ea deserunt irure dolor tempor magna laborum. Cupidatat adipisicing elit magna minim sunt pariatur est velit anim. Mollit ipsum eiusmod ex dolore fugiat consequat ea non quis do aliqua. Nostrud ad ea exercitation do. Laborum do est cupidatat cillum occaecat amet mollit. Lorem fugiat mollit anim nulla adipisicing id excepteur adipisicing elit tempor.",
+      "author": "NDTV",
+      "id": 1
+    },
+    {
+      "title": "IND vs AUS",
+      "body": "Aliquip sunt non irure incididunt ex elit aliqua nulla eiusmod. Exercitation anim est laboris velit aute excepteur sint deserunt. Officia non laborum voluptate voluptate irure excepteur labore occaecat fugiat cupidatat labore pariatur ex. Pariatur anim deserunt ea ipsum ea elit nulla veniam ea est in. Enim velit dolor eiusmod consectetur excepteur velit ad exercitation cillum mollit ipsum aliqua incididunt. Occaecat magna incididunt est duis excepteur irure.Elit velit minim non qui fugiat sint tempor nulla ad nostrud exercitation. Incididunt enim nisi nisi dolore mollit. Laboris voluptate cupidatat ad cillum. Enim amet duis dolore minim qui sit irure aliqua cupidatat ex consectetur.",
+      "author": "CrickTracker",
+      "id": 2
+    },
+    {
+      "title": "Football",
+      "body": "in Al-Nasar vs PSG game PSG won by 4-3 lead.",
+      "author": "Google",
+      "id": 5
+    },
+    {
+      "title": "Samsung S23 series",
+      "body": "This is samsungs Flagship phone series . Was launch on 1st feb 2023. There are three phones included in this sereis. 1. S23, S23 plus , S23 Ultra.",
+      "author": "Kim",
+      "id": 6
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+
+  \{^_^}/ hi!
+
+  Loading data/db.json
+  Done
+
+  Resources
+  http://localhost:3000/blogs
+
+  Home
+  http://localhost:3000
+
+  Type s + enter at any time to create a snapshot of the database
+  Watching...
+
+[0mGET /%PUBLIC_URL%/favicon.ico [33m404[0m 9.384 ms - 2[0m
+[0mGET /%PUBLIC_URL%/manifest.json [33m404[0m 13.917 ms - 2[0m
+[0mGET /%PUBLIC_URL%/manifest.json [33m404[0m 12.480 ms - 2[0m
+Terminate batch job (Y/N)? 
