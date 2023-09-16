@@ -4,6 +4,27 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+ npx json-server --watch data/db.json --port 8000
+(for run jsonserver this)
+
+first run server on this & then in other powershell run npm start
+
+
+  \{^_^}/ hi!
+
+  Loading data/db.json
+  Done
+
+  Resources
+  http://localhost:8000/blogs
+
+  Home
+  http://localhost:3000
+
+  Type s + enter at any time to create a snapshot of the database
+  Watching...
+
+
 In the project directory, you can run:
 
 ### `npm start`
