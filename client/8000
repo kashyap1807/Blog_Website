@@ -1,3 +1,5 @@
+ npx json-server --watch data/db.json --port 8000
+(for run json server this)
 
   \{^_^}/ hi!
 
@@ -5,12 +7,15 @@
   Done
 
   Resources
-  http://localhost:3000/blogs
+  http://localhost:8000/blogs
 
   Home
-  http://localhost:3000
+  http://localhost:8000
 
   Type s + enter at any time to create a snapshot of the database
   Watching...
 
 Terminate batch job (Y/N)? 
+
+
+
